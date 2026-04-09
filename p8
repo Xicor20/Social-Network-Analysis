@@ -14,5 +14,4 @@ if __name__ == "__main__":
     G = nx.Graph()
     G.add_edges_from([(1,2), (2,3), (3,4), (4,1)])
     svd_analysis(G)
-print("Name : Abhishek Jaiswar")
-print("Roll No: 11")
+
