@@ -18,5 +18,3 @@ if __name__ == "__main__":
     B.add_nodes_from(["A", "B", "C"], bipartite=1)
     B.add_edges_from([(1, "A"), (2, "A"), (2, "B"), (3, "B"), (4, "C")])
     two_mode_core_periphery_analysis(B)
-print("Abhishek Jaiswar")
-print("Roll no.: 11")
