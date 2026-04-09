@@ -23,5 +23,3 @@ def main():
     print("Regular Equivalence:", regular_equivalence)
 if __name__== "__main__":
     main()
-print("Name : Abhishek Jaiswar")
-print("Roll No: 11")
