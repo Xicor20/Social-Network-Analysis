@@ -16,5 +16,3 @@ pos = nx.spring_layout(G) # Set layout for a better visualization
 nx.draw(G, pos, with_labels=True, font_weight='bold')
 plt.title("Network as a Sociogram")
 plt.show()
-print("Abhishek Jaiswar")
-print("Roll No : 11")
